@@ -8,6 +8,6 @@ end
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
     Title = "Notification";
-    Text = "net fucktard shit bypassed";
-    Icon = "rbxthumb://type=Asset&id=3390495051&w=150&h=150"})
+    Text = "re-execute when dead";
+    Icon = "rbxthumb://type=Asset&id=6647724000&w=150&h=150"})
 Duration = 5;
