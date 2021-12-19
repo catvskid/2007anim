@@ -7,7 +7,7 @@ end
 end
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
-    Title = "Notification";
+    Title = "sex";
     Text = "re-execute when dead";
     Icon = "rbxthumb://type=Asset&id=6647724000&w=150&h=150"})
 Duration = 5;
